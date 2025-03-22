@@ -7,3 +7,5 @@ print(123)
 
 content - "moja nowa treść"
 print(content)
+
+newcontent = "Najnowsza treść"
